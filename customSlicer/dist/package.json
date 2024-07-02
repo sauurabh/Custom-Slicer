@@ -1,0 +1,17 @@
+{
+		"version": "1.0.0.0",
+		"author": {"name":"Saurabh","email":"saurabhss1210@gmail.com"},
+		"resources": [
+			{
+				"resourceId": "rId0",
+				"sourceType": 5,
+				"file": "resources/customSlicer21B4538EA7724FE6A3ADE31468782176.pbiviz.json"
+			}
+		],
+		"visual": {"name":"customSlicer","displayName":"customSlicer","guid":"customSlicer21B4538EA7724FE6A3ADE31468782176","visualClassName":"Visual","version":"1.0.0.0","description":"custom slicer","supportUrl":"https://community.powerbi.com","gitHubUrl":"https://github.com/microsoft/PowerBI-visuals-circlecard"},
+		"metadata": {
+			"pbivizjson": {
+				"resourceId": "rId0"
+			}
+		}
+	}

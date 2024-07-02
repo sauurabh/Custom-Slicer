@@ -1,0 +1,26 @@
+{
+    "visual": {
+        "name": "customSlicer",
+        "displayName": "customSlicer",
+        "guid": "customSlicer21B4538EA7724FE6A3ADE31468782176",
+        "visualClassName": "Visual",
+        "version": "1.0.0.0",
+        "description": "custom slicer",
+        "supportUrl": "https://community.powerbi.com",
+        "gitHubUrl": "https://github.com/microsoft/PowerBI-visuals-circlecard"
+    },
+    "apiVersion": "5.3.0",
+    "author": {
+        "name": "Saurabh",
+        "email": "saurabhss1210@gmail.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": [],
+    "version": "1.0.0.0"
+}
