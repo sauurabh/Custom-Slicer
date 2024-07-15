@@ -13,7 +13,8 @@
     <ul>
         <li><a href="https://nodejs.org/">Node.js</a></li>
         <li><a href="https://www.npmjs.com/">npm</a></li>
-        <li><a href="https://www.npmjs.com/package/powerbi-visuals-tools">Power BI Visual Tools (<code>pbiviz</code>)</a></li>
+        <li><a href="https://www.npmjs.com/package/powerbi-visuals-tools">Power BI Visual Tools (<code>pbiviz</code>)</a>            </li>
+        <li><a href="https://learn.microsoft.com/en-us/power-bi/developer/visuals/environment-setup">For More Detail</a></li>
     </ul>
 
 <h3>Installation</h3>
