@@ -39,7 +39,7 @@ cd Custom-Slicer</code></pre>
 
   <h2>Usage</h2>
     <ol>
-        <li>Import the <code>.pbiviz</code> file into your Power BI report.</li>
+        <li>Import the <code>.pbiviz</code> file into your Power BI report. (Inside<code> Custom-Slicer/Dist</code>)</li>
         <li>Add the custom slicer visual to your report.</li>
         <li>Configure the slicer settings as needed, including the maximum number of selectable items.</li>
     </ol>
