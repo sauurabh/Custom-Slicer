@@ -3,7 +3,7 @@
 <h2>Features</h2>
     <ul>
         <li><strong>Custom Selection Limit</strong>: Restrict the number of items that can be selected in the slicer.</li>
-        <li><strong>React.js Integration</strong>: Built using React.js for a dynamic and responsive UI.</li>
+        <li><strong>React.js Integration</strong>: Built using React.js.</li>
         <li><strong>Power BI Visualization Tools (<code>pbiviz</code>)</strong>: Utilizes the <code>pbiviz</code> library for seamless integration with Power BI.</li>
     </ul>
 
@@ -72,6 +72,11 @@ cd Custom-Slicer</code></pre>
       <li><code>dist/</code>: Directory where the built visual is output.</li>
       <li><code>package.json</code>: Project configuration and dependencies.</li>
       <li><code>tsconfig.json</code>: TypeScript configuration.</li>
+    <h2>Sample</h2>
+    <h4>If maxSelection value is "n",then it will allow user to select options less than or equal to "n"</h4>
+    <img src="https://github.com/user-attachments/assets/6c3dd973-82cb-4c58-a7b1-640198d7e7cb">
+    <img src="https://github.com/user-attachments/assets/05851d6b-4de1-46b5-a7f8-a0b563cb6f0b">
+
 
   <h2>Contributing</h2>
     <p>Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.</p>
