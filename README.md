@@ -74,10 +74,7 @@ cd Custom-Slicer</code></pre>
       <li><code>tsconfig.json</code>: TypeScript configuration.</li>
     <h2>Sample</h2>
     <h4>If maxSelection value is "n",then it will allow user to select options less than or equal to "n"</h4>
-    <img src="https://github.com/user-attachments/assets/6c3dd973-82cb-4c58-a7b1-640198d7e7cb">
-    <img src="https://github.com/user-attachments/assets/05851d6b-4de1-46b5-a7f8-a0b563cb6f0b">
-
-
+    <img src="https://github.com/user-attachments/assets/4ea7e9e4-8954-4957-a606-978bfc47cca4">
   <h2>Contributing</h2>
     <p>Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.</p>
     
